@@ -153,7 +153,7 @@ Developed a real-time **IPF detection GUI in Google Colab** using `ipywidgets`:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ipf-cnn-classification.git
+git clone https://github.com/AxFISR/Idiopathic-Pulmonary-Fibrosis-classification-using-optimized-Convolutional-Neural-Network/IPF_classification_model.git
 ```
 
 2. Run the Colab notebook:
