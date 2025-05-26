@@ -54,7 +54,7 @@ We also explored **transfer learning** to further improve model performance.
   * Train: 70% (\~3073 images)
   * Validation: 25% (\~1098 images)
   * Test: 5% (\~220 images)
-[Link to the Dataset](https://drive.google.com/drive/u/2/folders/1z3Dmbwpcw-XXqslPdkmug0OxIYl_Fgrh)
+* [Link to the Dataset](https://drive.google.com/drive/u/2/folders/1z3Dmbwpcw-XXqslPdkmug0OxIYl_Fgrh)
 ---
 
 ## 🧱 Model Architecture
